@@ -1,0 +1,25 @@
+{
+  "name": "glup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "uglify"
+  ],
+  "author": "Jacky",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cli": "^1.4.0",
+    "gulp-connect": "^5.0.0",
+    "gulp-server": "^0.1.0",
+    "gulp-uglify": "^3.0.0"
+  },
+  "devDependencies": {
+    "gulp-sequence": "^0.4.6"
+  }
+}
